@@ -1,0 +1,1 @@
+vamos ver se vai pra staging area sem fazer comando de adicionargit
